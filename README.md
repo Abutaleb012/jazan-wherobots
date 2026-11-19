@@ -57,7 +57,7 @@ The first notebook finds table names and the geometry and raster columns automat
 
 ## Cost
 
-Running the official Getting Started notebook on a Micro runtime for about 27 minutes used roughly 0.5 Spatial Units (about $0.74 at Wherobots' published price of $1.50 per Spatial Unit).
+Running the official Getting Started notebook on a Micro runtime for about 27 minutes used 0.62 Spatial Units ($0.93 at Wherobots' published price of $1.50 per Spatial Unit). Stop the runtime when you finish, because it keeps billing while idle.
 
 ## Tools
 
