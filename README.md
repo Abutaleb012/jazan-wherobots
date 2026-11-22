@@ -2,7 +2,7 @@
 
 Cloud-native geospatial analysis of Jazan city, Saudi Arabia, using [Wherobots](https://wherobots.com/) (WherobotsDB, built on Apache Sedona) and open data from the Wherobots Havasu catalog. Everything runs in the cloud with spatial SQL and Python. No data is downloaded to a local machine.
 
-**Author:** Ali Abutaleb, PhD
+**Author:** Ali Abutaleb, PhD · [Portfolio](https://abutaleb012.github.io/) · [LinkedIn](https://www.linkedin.com/in/ali-abutalebphdaremotesensing/)
 
 ## What this project does
 
